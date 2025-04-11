@@ -1,5 +1,5 @@
 import './css/style.css';
 
-import './js/./team';
+import './js/./errorRepository';
 
 // TODO: write your code in app.js
